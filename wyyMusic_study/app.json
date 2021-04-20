@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#C20C0C",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "假的网易云"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
